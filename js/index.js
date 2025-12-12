@@ -45,7 +45,7 @@ let resizeTimeout = false;
 
 import * as utilities from "utils.js";
 import * as esptooljs from "../node_modules/esptool-js/bundle.js";
-import * as toml from "../node_modules/smol-toml/dist/index.js";
+import * as toml from "https://github.com/arodbusiness/arodbusiness.github.io/blob/67dd7758fec1222fc2bd24b0144d1f01b2cc6119/node_modules/smol-toml/dist/index.js";
 
 const ESPLoader = esptooljs.ESPLoader;
 const Transport = esptooljs.Transport;
