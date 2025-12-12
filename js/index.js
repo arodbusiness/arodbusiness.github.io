@@ -43,9 +43,9 @@ const rightOffCanvasContainer = document.getElementById("offcanvasRight");
 
 let resizeTimeout = false;
 
-import * as utilities from "https://github.com/arodbusiness/arodbusiness.github.io/blob/f09740e0af8b75ee8a7619fce70d4a23004e0a1a/js/utils.js";
-import * as esptooljs from "https://github.com/arodbusiness/arodbusiness.github.io/blob/f09740e0af8b75ee8a7619fce70d4a23004e0a1a/node_modules/esptool-js/bundle.js";
-import * as toml from "https://github.com/arodbusiness/arodbusiness.github.io/blob/67dd7758fec1222fc2bd24b0144d1f01b2cc6119/node_modules/smol-toml/dist/index.js";
+import * as utilities from "https://cors.io/?url=https://github.com/arodbusiness/arodbusiness.github.io/blob/f09740e0af8b75ee8a7619fce70d4a23004e0a1a/js/utils.js";
+import * as esptooljs from "https://cors.io/?url=https://github.com/arodbusiness/arodbusiness.github.io/blob/f09740e0af8b75ee8a7619fce70d4a23004e0a1a/node_modules/esptool-js/bundle.js";
+import * as toml from "https://cors.io/?url=https://github.com/arodbusiness/arodbusiness.github.io/blob/67dd7758fec1222fc2bd24b0144d1f01b2cc6119/node_modules/smol-toml/dist/index.js";
 
 const ESPLoader = esptooljs.ESPLoader;
 const Transport = esptooljs.Transport;
