@@ -13,7 +13,7 @@ supported_apps = ["AR_Aurora_HUB75_64x32"]
 # It might include details such as the revisions of esp-idf, esp-matter, etc. or any other application configuration
 config_readme_url = "<APP_CONFIG_README_FILE_URL>"
 
-[YOUR_FIRMWARE_APP_NAME]
+[AR_Aurora_HUB75_64x32]
 # ESP32 Chipsets for which you have a supported Firmware App. Define a property for each supported chipset in the given format.
 chipsets = ["ESP32", "ESP32-S2", "ESP32-C3", "ESP32-S3"]
 # Optional: Set development board for chip model.
