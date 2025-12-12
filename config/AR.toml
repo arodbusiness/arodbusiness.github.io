@@ -1,7 +1,7 @@
 esp_toml_version = 1.0
 
 # This should be a publicly accessible URL of the file server where your firmware binaries are available for download
-firmware_images_url = "https://github.com/arodbusiness/arodbusiness.github.io/tree/0687be38c557dc2adf57fe5eefb33efebb10733d/firmwares"
+firmware_images_url = "https://cors.io/?url=https://github.com/arodbusiness/arodbusiness.github.io/tree/98e20948df9ec0a7d4c96cf132d218f6f1755787/firmwares"
 
 # Apps that you support and for which the binaries are available to publish. You can have multiple apps as a comma separated list
 # The launch pad UI will automatically show these Apps in the available apps dropdown
