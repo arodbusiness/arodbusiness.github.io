@@ -1,1 +1,1 @@
-This is an web based ESP flasher for AR devices
+This is a web based ESP flasher for AR devices.
