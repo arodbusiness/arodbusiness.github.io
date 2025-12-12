@@ -43,7 +43,7 @@ const rightOffCanvasContainer = document.getElementById("offcanvasRight");
 
 let resizeTimeout = false;
 
-import * as utilities from "./utils.js";
+import * as utilities from "utils.js";
 import * as esptooljs from "https://raw.githubusercontent.com/arodbusiness/arodbusiness.github.io/refs/heads/main/node_modules/esptool-js/bundle.js";
 import * as toml from 'https://raw.githubusercontent.com/arodbusiness/arodbusiness.github.io/refs/heads/main/node_modules/smol-toml/dist/index.js';
 
